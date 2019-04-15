@@ -1,1 +1,7 @@
 
+# This is the source code of the data modeling we have done in RStudio for Crime data in Chicago.
+
+# The Objective of this research project was to come up with a predictive risk score by analyzing crime trends from all of the community zones within Chicago. 
+
+# The purpose of coming of with a predictive risk score was to determine how feasible it was to come up with the data in-house instead of going to 3rd party vendors. By providing the data in-house as well as an analysis and predictive risk score, EMC can test whether the data that was provided by us in-house is a feasible option or not.
+
